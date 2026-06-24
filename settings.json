@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WARRLS.aternos.me",
-    "port": 15740,
+    "ip": "WARRLS.exaroton.me",
+    "port": 17711,
     "version": "1.20.1",
     "try-creative": false
   },
